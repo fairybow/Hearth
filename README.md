@@ -22,12 +22,14 @@
 </p>
 
 > [!IMPORTANT]
-> **A couple notes on this project:**
-> 
-> First, I'm taking a little break from this and trying to dedicate more time to writing right now (this project is, after all, just a more extravagant form of procrastination against writing). While I'm doing that, I'll be assessing what I really want in a writing tool, and I expect the design of this to change dramatically yet again.
-> 
-> Second, I noticed there's another piece of writing software using the name Hearth (it's newer, but I still must have missed it when I checked this name out), so I'll change the name (again) at some point in the future.
-> 
+> **Hearth has a successor: [Suzuri](https://github.com/fairybow/Suzuri).**
+>
+> I took the break I mentioned, spent it writing, and came back knowing what I actually want in a writing tool. Suzuri is that: a plain-text writing app built around Obsidian-like vaults, where everything you write stays in ordinary files in a folder you own.
+>
+> It's a fresh start with a new name and a simpler design, and it's where all my work is going from now on. I've rebuilt this project a few times, and I think this is the one.
+>
+> Hearth will stay up as it is, but it won't be updated.
+>
 > – fairybow
 
 Hearth :fire: is a cross-platform, plain-text-first workbench for creative writing. Work on single files like a notepad or organize whole projects in [Notebooks (`.hearthx`)](https://github.com/fairybow/Hearth/blob/main/Hearth/docs/Notebooks.md).
